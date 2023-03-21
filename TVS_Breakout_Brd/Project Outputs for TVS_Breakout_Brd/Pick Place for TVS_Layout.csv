@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB Designs\TVS_Breakout_Brd\Project Outputs for TVS_Breakout_Brd\Pick Place for TVS_Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/11/22
+Time:       16:49
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R1","1k","TopLayer","0402_Passive_Resistor","259.685","550.000","0","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"LED1","0603R","TopLayer","LED_0603","270.000","470.000","180","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"J2","J_5_PIN_HEADER","TopLayer","5_PIN_100MIL","400.000","300.000","270","5 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"J1","J_5_PIN_HEADER","TopLayer","5_PIN_100MIL","100.000","300.000","270","5 Position Header Connector 0.100" (2.54mm) Through Hole Tin"
+"D1","SRV05-4-P-T7","TopLayer","TVS","260.738","300.000","0","TVS SOT-23-6 ROHS"

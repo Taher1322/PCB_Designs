@@ -1,0 +1,49 @@
+Added Component: Designator=D1(TVS)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/ProTek-Devices-SRV05-4-P-T7_C85364.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C85364"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "SRV05-4-P-T7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TVS DIODE 5.5V 6TSOP"; VariantName = "[No Variations]"
+Added Component: Designator=J1(5_PIN_100MIL)
+Added Component: Designator=J2(5_PIN_100MIL)
+Added Component: Designator=LED1(LED_0603)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2286"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "KT-0603R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0402_Passive_Resistor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402WGF1001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=IO1 Pin=D1-1
+Added Pin To Net: NetName=IO1 Pin=J1-2
+Added Net: Name=IO1
+Added Pin To Net: NetName=IO2 Pin=D1-3
+Added Pin To Net: NetName=IO2 Pin=J1-4
+Added Net: Name=IO2
+Added Pin To Net: NetName=IO3 Pin=D1-4
+Added Pin To Net: NetName=IO3 Pin=J2-4
+Added Net: Name=IO3
+Added Pin To Net: NetName=IO4 Pin=D1-6
+Added Pin To Net: NetName=IO4 Pin=J2-2
+Added Net: Name=IO4
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=REF Pin=D1-5
+Added Pin To Net: NetName=REF Pin=LED1-1
+Added Net: Name=REF
+Added Class: Name=Schematics
+Added Room: Name=Schematics

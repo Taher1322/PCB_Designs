@@ -1,0 +1,61 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\PCB Designs\TVS_Breakout_Brd\TVS_Layout.PcbDoc
+Date     : 11/2/2022
+Time     : 5:30:51 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad D1-1(214.232mil,337.402mil) on Top Layer And Pad D1-2(214.232mil,300mil) on Top Layer 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad D1-2(214.232mil,300mil) on Top Layer And Pad D1-3(214.232mil,262.598mil) on Top Layer 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad D1-4(307.244mil,262.598mil) on Top Layer And Pad D1-5(307.244mil,300mil) on Top Layer 
+   Violation between Clearance Constraint: (9.842mil < 10mil) Between Pad D1-5(307.244mil,300mil) on Top Layer And Pad D1-6(307.244mil,337.402mil) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=20mil) (Max=20mil) (Preferred=20mil) (InNet('REF'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=10mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (5.819mil < 6mil) Between Pad D1-3(214.232mil,262.598mil) on Top Layer And Track (231mil,239mil)(290.055mil,239mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.819mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.819mil < 6mil) Between Pad D1-4(307.244mil,262.598mil) on Top Layer And Track (231mil,239mil)(290.055mil,239mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.819mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad J1-1(100mil,500mil) on Multi-Layer And Text "Designed By" (415mil,464.997mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad J2-1(400mil,500mil) on Multi-Layer And Text "Designed By" (415mil,464.997mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+Rule Violations :4
+
+Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (5.013mil < 6mil) Between Text "22-11-10" (355mil,505mil) on Bottom Overlay And Text "Designed By" (415mil,464.997mil) on Bottom Overlay Silk Text to Silk Clearance [5.013mil]
+   Violation between Silk To Silk Clearance Constraint: (1.503mil < 6mil) Between Text "LED1" (216.678mil,410.003mil) on Top Overlay And Track (231mil,437mil)(310mil,437mil) on Top Overlay Silk Text to Silk Clearance [1.503mil]
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 10
+Waived Violations : 0
+Time Elapsed        : 00:00:01
