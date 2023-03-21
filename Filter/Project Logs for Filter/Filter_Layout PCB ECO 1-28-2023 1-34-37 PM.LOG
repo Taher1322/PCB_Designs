@@ -1,0 +1,54 @@
+Added Component: Designator=C1(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(6_PIN_100MIL-Male)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810312320_BOOMELE-Boom-Precision-Elec-C37208_C37208.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MALE"; VariantName = "[No Variations]"
+Added Component: Designator=J2(6_PIN_100MIL-Male)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810312320_BOOMELE-Boom-Precision-Elec-C37208_C37208.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MALE"; VariantName = "[No Variations]"
+Added Component: Designator=L1(AIML-1206_ABR-M)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/1810311314_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609X100KT_C1051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC PART#"; Value = "C1051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PART #"; Value = "CMI321609X100KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Added Component: Designator=L2(AIML-1206_ABR-M)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/1810311314_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609X100KT_C1051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC PART#"; Value = "C1051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PART #"; Value = "CMI321609X100KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=FIL_1 Pin=J1-5
+Added Pin To Net: NetName=FIL_1 Pin=L2-2
+Added Net: Name=FIL_1
+Added Pin To Net: NetName=FIL_2 Pin=C1-2
+Added Pin To Net: NetName=FIL_2 Pin=J2-5
+Added Pin To Net: NetName=FIL_2 Pin=L2-1
+Added Net: Name=FIL_2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Net: Name=GND
+Added Pin To Net: NetName=IND1 Pin=J1-3
+Added Pin To Net: NetName=IND1 Pin=L1-2
+Added Net: Name=IND1
+Added Pin To Net: NetName=IND2 Pin=J2-3
+Added Pin To Net: NetName=IND2 Pin=L1-1
+Added Net: Name=IND2
+Added Pin To Net: NetName=IO Pin=J1-1
+Added Pin To Net: NetName=IO Pin=J2-1
+Added Net: Name=IO
+Added Class: Name=Schematics
+Added Room: Name=Schematics

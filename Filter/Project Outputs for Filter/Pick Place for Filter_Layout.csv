@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB Designs\Filter\Project Outputs for Filter\Pick Place for Filter_Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/02/23
+Time:       15:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"L2","FB_10uH_1206","TopLayer","AIML-1206_ABR-M","250.000","140.000","90","25mA 10uH ±10% 800mO 1206  Inductors (SMD) ROHS"
+"L1","FB_10uH_1206","TopLayer","AIML-1206_ABR-M","290.000","400.000","180","25mA 10uH ±10% 800mO 1206  Inductors (SMD) ROHS"
+"J2","MALE","TopLayer","6_PIN_100MIL-Male","440.000","350.000","270","Male header- 6 pin 1 row- through Hole"
+"J1","MALE","TopLayer","6_PIN_100MIL-Male","140.000","350.000","270","Male header- 6 pin 1 row- through Hole"
+"C1","22uF","TopLayer","1206_Passive_Capacitor","340.000","143.500","270","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
