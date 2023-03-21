@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB Designs\Frequency_Voltage_Board\Project Outputs for Frequency_Voltage_Board\Pick Place for Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/03/23
+Time:       18:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R15","10k","TopLayer","0402_Passive_Resistor","280.000","140.000","270","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R14","4.7Ohm","TopLayer","1206_Passive_Resitor","650.000","580.000","0","4.7O ±5% 0.25W ±400ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R13","10k","TopLayer","0402_Passive_Resistor","2909.685","1850.000","180","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R12","10k","TopLayer","0402_Passive_Resistor","2140.000","1220.000","0","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R11","10k","TopLayer","0402_Passive_Resistor","1230.315","1100.000","0","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"LED5","KT-0603R","TopLayer","LED_0603","3040.000","1850.000","180","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED4","KT-0603R","TopLayer","LED_0603","2020.000","1220.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED3","KT-0603R","TopLayer","LED_0603","1140.000","1070.000","90","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"LED2","KT-0603R","TopLayer","LED_0603","1830.000","1760.472","90","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"TP8","TP_RC_OSC","TopLayer","TP10x_Probe","2480.000","890.000","90","Test Point 300 mil centers"
+"Y1","X322516MLB4SI","TopLayer","Crystal_resonator","2828.035","1589.994","270","±10ppm 16000000Hz -40?~85? ?????? 60O 9pF SMD3225-4P Crystals ROHS"
+"U5","MCP6002T-I/SN","TopLayer","SOIC127P600X175-8N","426.299","325.000","0","0.6 V/us 2 1MHz 1.8V ~ 6V 100µA General Purpose SOIC-8_150mil  Operational Amplifier ROHS"
+"U4","SN74AHC14DR","TopLayer","SOIC127P600X175-14N","3102.559","1470.000","0","6-ch, 2-V to 5.5-V inverters with Schmitt-Trigger inputs"
+"U3","LMC555CMX/NOPB","TopLayer","TS555IDTTR","1033.701","885.000","180","555 Type, Timer/Oscillator _Single_ IC 3MHz 8-SO"
+"U2","SN74AHC14DR","TopLayer","HEX_74AC14","2140.000","1520.000","90","Inverter IC 6 Channel Schmitt Trigger 14-SOIC"
+"U1","SN74AHC14DR","TopLayer","HEX_74AC14","2140.000","870.000","90","Inverter IC 6 Channel Schmitt Trigger 14-SOIC"
+"TP7","10x Probe TP","TopLayer","TP10x_Probe","950.000","1400.000","0","Test Point 300 mil centers"
+"TP6","TP_16MHz_BUFF","TopLayer","TP10x_Probe","3080.000","1140.000","0","Test Point 300 mil centers"
+"TP5","10x Probe TP","TopLayer","TP10x_Probe","1130.000","530.000","0","Test Point 300 mil centers"
+"TP4","TP_MOSFET","TopLayer","TP10x_Probe","1150.000","260.000","0","Test Point 300 mil centers"
+"TP3","TP_555_Output","TopLayer","TP10x_Probe","1470.000","800.000","270","Test Point 300 mil centers"
+"TP2","TP_5V","TopLayer","TP10x_Probe","300.000","1400.000","0","Test Point 300 mil centers"
+"TP1","TP_RING_OSC","TopLayer","TP10x_Probe","2480.000","1510.000","90","Test Point 300 mil centers"
+"R10","10k","TopLayer","0402_Passive_Resistor","1850.000","860.000","0","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R9","4.7KOhm","TopLayer","1206_Passive_Resitor","1890.000","600.000","180","4.7kO ±1% 0.25W ±100ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R8","1 Ohm","TopLayer","1206_Passive_Resitor","780.000","1730.000","270","1O ±5% 0.25W ±400ppm/? 1206 Chip Resistor - Surface Mount RoHS"
+"R7","10k","TopLayer","0402_Passive_Resistor","1740.315","1790.000","180","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R6","1M","TopLayer","0402_Passive_Resistor","2790.000","1460.000","270","CHIP RESISTOR - SURFACE MOUNT 1MOHMS ±1% 1/16W 0402 ROHS"
+"R5","10k","TopLayer","0402_Passive_Resistor","3070.000","1770.000","90","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R4","10k","TopLayer","0402_Passive_Resistor","1850.000","1660.000","0","CHIP RESISTOR - SURFACE MOUNT 10KOHMS ±1% 1/16W 0402 ROHS"
+"R3","2.55 KOhms","TopLayer","0402_Passive_Resistor","680.000","830.000","270","62.5mW Thick Film Resistors 50V ±100ppm/? ±1% -55?~+155? 2.55kO 0402 Chip Resistor - Surface Mount ROHS"
+"R2","1 Ohm","TopLayer","0402_Passive_Resistor","680.000","940.315","270","62.5mW Thick Film Resistors 50V ±100ppm/? ±1% -55?~+155? 5.23kO 0402 Chip Resistor - Surface Mount ROHS"
+"R1","1k","TopLayer","0805_Passive_Resistor","980.000","1800.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/8W 0805 ROHS"
+"Q1","AO3400A","TopLayer","N-MOSFET","450.000","550.000","180","MOSFET N Trench 30V 5.7A 1.5V @ 250uA 26.5 m? @ 5.7A,10V SOT-23-3L RoHS"
+"P1","Power Jack","TopLayer","Power_Jack","318.110","1708.465","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle"
+"LED1","KT-0603R","TopLayer","LED_0603","950.472","1670.000","0","LIGHT EMITTING DIODES (LED) RED 520~625NM 90~100MCD@20MA TOP VIEW 0603 ROHS"
+"J6","SMA Edge Launched","TopLayer","SMA_2_LAYER","110.250","919.500","90","2 Layer SMA Connector Without Cutout Under Signal"
+"J5","MALE","TopLayer","6_PIN_100MIL-Male","80.000","320.000","270","Male header- 6 pin 1 row- through Hole"
+"J4","2 PIN","TopLayer","2_PIN_100MIL","3250.000","1790.000","180","2.54mm Straight 2 1 Header,Breakaway Through Hole,P=2.54mm Pin Header & Female Header ROHS"
+"J3","2 PIN","TopLayer","2_PIN_100MIL","1830.000","1040.000","270","2.54mm Straight 2 1 Header,Breakaway Through Hole,P=2.54mm Pin Header & Female Header ROHS"
+"J2","2 PIN","TopLayer","2_PIN_100MIL","690.000","1130.000","0","2.54mm Straight 2 1 Header,Breakaway Through Hole,P=2.54mm Pin Header & Female Header ROHS"
+"J1","2 PIN","TopLayer","2_PIN_100MIL","1830.000","1420.000","90","2.54mm Straight 2 1 Header,Breakaway Through Hole,P=2.54mm Pin Header & Female Header ROHS"
+"C10","1uF","TopLayer","0402_Passive_Capacitor","640.000","400.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C9","1uF","TopLayer","0402_Passive_Capacitor","3330.000","1599.685","270","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C8","1uF","TopLayer","0402_Passive_Capacitor","2009.685","1130.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C7","22pF","TopLayer","0402_Passive_Capacitor","2050.000","600.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
+"C6","22pF","TopLayer","0402_Passive_Capacitor","2860.000","1420.000","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
+"C5","22pF","TopLayer","0402_Passive_Capacitor","2810.315","1750.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
+"C4","1uF","TopLayer","0402_Passive_Capacitor","950.000","720.000","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C3","150pF","TopLayer","0402_Passive_Capacitor","760.000","810.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C2","1uF","TopLayer","0402_Passive_Capacitor","2010.000","1770.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 25V 0402 ROHS"
+"C1","22uF","TopLayer","0805_Passive_Capaciitor","620.000","1757.401","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22UF 25V 0805 ROHS"

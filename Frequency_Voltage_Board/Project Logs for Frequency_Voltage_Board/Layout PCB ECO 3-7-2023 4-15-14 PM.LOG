@@ -1,0 +1,7 @@
+Added Component: Designator=TP8(TP10x_Probe)
+Added Pin To Net: NetName=NetC7_2 Pin=TP8-1
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Pin To Net: NetName=GND Pin=TP8-2
+Added Member To Class: ClassName=Schematics Member=Component TP8 TP_RC_OSC
+Added Room: Name=Schematics
