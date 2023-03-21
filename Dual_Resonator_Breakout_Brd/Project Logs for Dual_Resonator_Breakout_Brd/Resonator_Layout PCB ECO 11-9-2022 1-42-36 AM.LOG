@@ -1,0 +1,51 @@
+Added Component: Designator=J1(2_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151421_Ckmtw-Shenzhen-Cankemeng-B-2100S02P-A110_C124375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "B-2100S02P-A110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 PIN"; VariantName = "[No Variations]"
+Added Component: Designator=J2(2_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151421_Ckmtw-Shenzhen-Cankemeng-B-2100S02P-A110_C124375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "B-2100S02P-A110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 PIN"; VariantName = "[No Variations]"
+Added Component: Designator=J3(10_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810241611_Ckmtw-Shenzhen-Cankemeng-C124372_C124372.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MALE"; VariantName = "[No Variations]"
+Added Component: Designator=J4(10_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810241611_Ckmtw-Shenzhen-Cankemeng-C124372_C124372.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124372"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MALE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_12M Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+5V_16M Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=12M_O1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=12M_O2 Pin=J3-3
+Added Pin To Net: NetName=12M_BUF_OUT Pin=J3-4
+Added Pin To Net: NetName=12M_BUF_OUT1 Pin=J3-5
+Added Pin To Net: NetName=12M_BUF_OUT2 Pin=J3-6
+Added Pin To Net: NetName=12M_Q_HIGH Pin=J3-7
+Added Pin To Net: NetName=GND Pin=J3-8
+Added Pin To Net: NetName=12M_Q_LOW Pin=J3-9
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=16M_O1 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=16M_O2 Pin=J4-3
+Added Pin To Net: NetName=16M_BUF_OUT Pin=J4-4
+Added Pin To Net: NetName=16M_BUF_OUT1 Pin=J4-5
+Added Pin To Net: NetName=16M_BUF_OUT2 Pin=J4-6
+Added Pin To Net: NetName=16M_Q_HIGH Pin=J4-7
+Added Pin To Net: NetName=GND Pin=J4-8
+Added Pin To Net: NetName=16M_Q_LOW Pin=J4-9
+Added Pin To Net: NetName=GND Pin=J4-10
+Added Member To Class: ClassName=Schematics Member=Component J1 2 PIN
+Added Member To Class: ClassName=Schematics Member=Component J2 2 PIN
+Added Member To Class: ClassName=Schematics Member=Component J3 MALE 10PIN
+Added Member To Class: ClassName=Schematics Member=Component J4 MALE 10PIN
+Added Room: Name=Schematics

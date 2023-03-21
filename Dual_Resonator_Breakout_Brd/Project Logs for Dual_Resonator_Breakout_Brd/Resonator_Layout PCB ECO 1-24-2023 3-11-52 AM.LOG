@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=16M_BUF_OUT1 Pin=J4-6
+Added Pin To Net: NetName=16M_BUF_OUT2 Pin=J4-6
+Added Member To Class: ClassName=Schematics Member=Component C1 10uF
+Added Member To Class: ClassName=Schematics Member=Component C2 10uF
+Added Room: Name=Schematics

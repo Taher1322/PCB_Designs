@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Resonator_Layout.PcbDoc   1/24/2023  3:20:05 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Resonator_Layout.TXT
+EIA File   : Resonator_Layout.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.305mm (12mil)                                           Round             9         PTH        28.18mm (1.11inch)
+T2      0.33mm (13mil)                                            Round             12        PTH        89.76mm (3.53inch)
+T3      1.1mm (43mil)                                             Round             24        PTH        99.06mm (3.90inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              45
+
+Total Processing Time (hh:mm:ss) : 00:00:00

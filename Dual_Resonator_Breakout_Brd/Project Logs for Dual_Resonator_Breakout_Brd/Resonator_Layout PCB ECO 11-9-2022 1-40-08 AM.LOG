@@ -1,0 +1,188 @@
+Added Component: Designator=C1(0805_Passive_Capaciitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C45783"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0805_Passive_Capaciitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Samsung-Electro-Mechanics-CL21A226MAQNNNE_C45783.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C45783"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL21A226MAQNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(0402_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C1555"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402CG220J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(0402_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C1555"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402CG220J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(0402_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C1555"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402CG220J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(0402_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C1555"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402CG220J500NT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 2_PIN_100MIL
+Add Component: Footprint Not Found 2_PIN_100MIL
+Add Component: Footprint Not Found 10_PIN_100MIL
+Add Component: Footprint Not Found 10_PIN_100MIL
+Added Component: Designator=LED1(LED_0603)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C72043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "19-217/GHC-YR1S2/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED_0603)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C72043"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "19-217/GHC-YR1S2/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0402_Passive_Resistor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402WGF1001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402_Passive_Resistor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1001TCE_C11702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402WGF1001TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0402_Passive_Resistor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1004TCE_C26083.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C26083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402WGF1004TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0402_Passive_Resistor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Uniroyal-Elec-0402WGF1004TCE_C26083.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C26083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "0402WGF1004TCE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74AHC14DR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74AHC14DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74AHC14DR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74AHC14DR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SN74AHC14DR/Texas+Instruments/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SN74AHC14DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-14 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SN74AHC14DR/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SN74AHC14DR/Texas+Instruments/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Crystal resonator)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Yangxing-Tech-X322512MSB4SI_C9002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C9002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "X322512MSB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(Crystal resonator)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "X322516MLB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_12M Pin=C1-1
+Added Pin To Net: NetName=+5V_12M Pin=R1-1
+Added Pin To Net: NetName=+5V_12M Pin=U1-11
+Added Pin To Net: NetName=+5V_12M Pin=U1-14
+Added Net: Name=+5V_12M
+Added Pin To Net: NetName=+5V_16M Pin=C2-1
+Added Pin To Net: NetName=+5V_16M Pin=R2-1
+Added Pin To Net: NetName=+5V_16M Pin=U2-11
+Added Pin To Net: NetName=+5V_16M Pin=U2-14
+Added Net: Name=+5V_16M
+Added Pin To Net: NetName=12M_BUF_OUT1 Pin=U1-6
+Added Net: Name=12M_BUF_OUT1
+Added Pin To Net: NetName=12M_BUF_OUT2 Pin=U1-12
+Added Net: Name=12M_BUF_OUT2
+Added Pin To Net: NetName=12M_BUF_OUT Pin=U1-4
+Added Net: Name=12M_BUF_OUT
+Added Pin To Net: NetName=12M_O1 Pin=C3-2
+Added Pin To Net: NetName=12M_O1 Pin=R4-1
+Added Pin To Net: NetName=12M_O1 Pin=U1-1
+Added Pin To Net: NetName=12M_O1 Pin=Y1-1
+Added Net: Name=12M_O1
+Added Pin To Net: NetName=12M_O2 Pin=C5-2
+Added Pin To Net: NetName=12M_O2 Pin=R4-2
+Added Pin To Net: NetName=12M_O2 Pin=U1-2
+Added Pin To Net: NetName=12M_O2 Pin=U1-3
+Added Pin To Net: NetName=12M_O2 Pin=U1-5
+Added Pin To Net: NetName=12M_O2 Pin=U1-13
+Added Pin To Net: NetName=12M_O2 Pin=Y1-3
+Added Net: Name=12M_O2
+Added Pin To Net: NetName=12M_Q_HIGH Pin=U1-8
+Added Net: Name=12M_Q_HIGH
+Added Pin To Net: NetName=12M_Q_LOW Pin=U1-10
+Added Net: Name=12M_Q_LOW
+Added Pin To Net: NetName=16M_BUF_OUT1 Pin=U2-6
+Added Net: Name=16M_BUF_OUT1
+Added Pin To Net: NetName=16M_BUF_OUT2 Pin=U2-12
+Added Net: Name=16M_BUF_OUT2
+Added Pin To Net: NetName=16M_BUF_OUT Pin=U2-4
+Added Net: Name=16M_BUF_OUT
+Added Pin To Net: NetName=16M_O1 Pin=C4-2
+Added Pin To Net: NetName=16M_O1 Pin=R3-1
+Added Pin To Net: NetName=16M_O1 Pin=U2-1
+Added Pin To Net: NetName=16M_O1 Pin=Y2-1
+Added Net: Name=16M_O1
+Added Pin To Net: NetName=16M_O2 Pin=C6-2
+Added Pin To Net: NetName=16M_O2 Pin=R3-2
+Added Pin To Net: NetName=16M_O2 Pin=U2-2
+Added Pin To Net: NetName=16M_O2 Pin=U2-3
+Added Pin To Net: NetName=16M_O2 Pin=U2-5
+Added Pin To Net: NetName=16M_O2 Pin=U2-13
+Added Pin To Net: NetName=16M_O2 Pin=Y2-3
+Added Net: Name=16M_O2
+Added Pin To Net: NetName=16M_Q_HIGH Pin=U2-8
+Added Net: Name=16M_Q_HIGH
+Added Pin To Net: NetName=16M_Q_LOW Pin=U2-10
+Added Net: Name=16M_Q_LOW
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R2-2
+Added Net: Name=NetLED2_1
+Added Class: Name=Schematics
+Added Room: Name=Schematics

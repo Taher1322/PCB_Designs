@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=12M_Q_HIGH Pin=J3-7
+Removed Pin From Net: NetName=12M_Q_LOW Pin=J3-9
+Removed Pin From Net: NetName=16M_Q_HIGH Pin=J4-7
+Removed Pin From Net: NetName=16M_Q_LOW Pin=J4-9
+Added Pin To Net: NetName=12M_Q_LOW Pin=J3-7
+Added Pin To Net: NetName=12M_Q_HIGH Pin=J3-9
+Added Pin To Net: NetName=16M_Q_LOW Pin=J4-7
+Added Pin To Net: NetName=16M_Q_HIGH Pin=J4-9
+Added Room: Name=Schematics

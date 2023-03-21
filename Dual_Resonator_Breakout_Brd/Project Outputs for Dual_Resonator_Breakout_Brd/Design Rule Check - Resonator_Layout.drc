@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\PCB Designs\Dual_Resonator_Breakout_Brd\Resonator_Layout.PcbDoc
+Date     : 1/24/2023
+Time     : 3:18:30 AM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=6mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (3.504mil < 6mil) Between Pad C3-1(170.315mil,755mil) on Top Layer And Via (140mil,755mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.504mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.141mil < 6mil) Between Pad Y1-4(331.499mil,748.304mil) on Top Layer And Via (330mil,795mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.141mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.331mil < 6mil) Between Pad Y2-2(391.614mil,48.071mil) on Top Layer And Via (440mil,45mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.331mil]
+Rule Violations :3
+
+Processing Rule : Silk To Solder Mask (Clearance=6mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Arc (283.583mil,140.551mil) on Top Overlay And Pad Y2-4(305mil,115mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad U1-4(395mil,857.559mil) on Top Layer And Text "R4" (379mil,805mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 6mil) Between Pad U2-1(295mil,202.559mil) on Top Layer And Text "Y2" (264mil,168mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+Rule Violations :3
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 6
+Waived Violations : 0
+Time Elapsed        : 00:00:02

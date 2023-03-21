@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB Designs\Dual_Resonator_Breakout_Brd\Project Outputs for Dual_Resonator_Breakout_Brd\Pick Place for Resonator_Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/01/23
+Time:       03:20
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C2","10uF","TopLayer","0402_Passive_Capacitor","225.000","420.000","90","10uF ±20% 6.3V X5R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"C1","10uF","TopLayer","0402_Passive_Capacitor","265.000","1165.000","0","10uF ±20% 6.3V X5R 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS"
+"J4","MALE 10PIN","TopLayer","10_PIN_100MIL","765.000","520.000","270","Pin Header 10 1 right-angle,180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS"
+"J3","MALE 10PIN","TopLayer","10_PIN_100MIL","65.000","520.000","270","Pin Header 10 1 right-angle,180degrees 2.54mm Through Hole,P=2.54mm Pin Header & Female Header RoHS"
+"J2","2 PIN","TopLayer","2_PIN_100MIL","765.000","1120.000","270","2.54mm Straight 2 1 Header,Breakaway Through Hole,P=2.54mm Pin Header & Female Header ROHS"
+"J1","2 PIN","TopLayer","2_PIN_100MIL","65.000","1120.000","270","2.54mm Straight 2 1 Header,Breakaway Through Hole,P=2.54mm Pin Header & Female Header ROHS"
+"Y2","X322516MLB4SI","TopLayer","Crystal_resonator","348.310","81.535","0","±10ppm 16000000Hz -40?~85? ?????? 60O 9pF SMD3225-4P Crystals ROHS"
+"Y1","X322512MSB4SI","TopLayer","Crystal_resonator","298.035","704.994","270","SMD Crystal Resonators 12MHz ±10ppm SMD-3225_4P RoHS"
+"U2","SN74AHC14DR","TopLayer","SOIC127P600X175-14N","445.000","300.000","90","6-ch, 2-V to 5.5-V inverters with Schmitt-Trigger inputs"
+"U1","SN74AHC14DR","TopLayer","SOIC127P600X175-14N","395.000","955.000","90","6-ch, 2-V to 5.5-V inverters with Schmitt-Trigger inputs"
+"R4","1M","TopLayer","0402_Passive_Resistor","410.315","750.000","0","CHIP RESISTOR - SURFACE MOUNT 1MOHMS ±1% 1/16W 0402 ROHS"
+"R3","1M","TopLayer","0402_Passive_Resistor","475.000","100.315","90","CHIP RESISTOR - SURFACE MOUNT 1MOHMS ±1% 1/16W 0402 ROHS"
+"R2","1k","TopLayer","0402_Passive_Resistor","465.000","515.000","0","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"R1","1k","TopLayer","0402_Passive_Resistor","404.685","1170.000","0","1 kOhms chip resistor SURFACE MOUNT 1KOHMS ±1% 1/16W 0402 ROHS"
+"LED2","0603Gr","TopLayer","LED_0603","574.528","515.000","0","LIGHT EMITTING DIODES (LED) GREEN 520~535NM 112~258MCD@20MA TOP VIEW 0603 ROHS"
+"LED1","0603Gr","TopLayer","LED_0603","560.000","1170.000","0","LIGHT EMITTING DIODES (LED) GREEN 520~535NM 112~258MCD@20MA TOP VIEW 0603 ROHS"
+"C6","22pF","TopLayer","0402_Passive_Capacitor","545.000","99.685","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
+"C5","22pF","TopLayer","0402_Passive_Capacitor","420.000","665.000","180","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
+"C4","22pF","TopLayer","0402_Passive_Capacitor","210.000","70.000","270","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
+"C3","22pF","TopLayer","0402_Passive_Capacitor","190.000","755.000","0","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 22PF 50V 0402 ROHS"
