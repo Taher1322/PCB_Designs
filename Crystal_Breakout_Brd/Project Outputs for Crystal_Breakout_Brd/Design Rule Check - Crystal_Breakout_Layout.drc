@@ -1,0 +1,78 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\PCB Designs\Crystal_Breakout_Brd\Crystal_Breakout_Layout.PcbDoc
+Date     : 10/23/2022
+Time     : 3:44:21 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (3.635mil < 10mil) Between Pad Y1-2(214.57mil,476.69mil) on Top Layer And Via (215mil,425mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.635mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.641mil < 10mil) Between Pad Y1-4(281.499mil,563.304mil) on Top Layer And Via (280mil,620mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.641mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.635mil < 10mil) Between Pad Y2-2(214.57mil,236.69mil) on Top Layer And Via (215mil,185mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.635mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.641mil < 10mil) Between Pad Y2-4(281.499mil,323.304mil) on Top Layer And Via (285mil,375mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [3.641mil]
+Rule Violations :4
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad R1-1(191mil,720mil) on Top Layer And Text "12MHz" (36mil,671mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.171mil < 10mil) Between Pad R1-1(191mil,720mil) on Top Layer And Text "R1" (136.671mil,720.003mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.171mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7mil < 10mil) Between Pad R1-2(309mil,720mil) on Top Layer And Text "16MHz" (341mil,676mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.644mil < 10mil) Between Pad Y1-4(281.499mil,563.304mil) on Top Layer And Text "Y1" (296.671mil,600.003mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.644mil]
+Rule Violations :4
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Arc (210mil,365mil) on Top Overlay And Text "Y2" (173.339mil,370.003mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "12M_X1" (36.667mil,145mil) on Top Overlay And Track (50mil,50mil)(50mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "12M_X1" (36.667mil,440mil) on Top Overlay And Track (50mil,50mil)(50mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (7.422mil < 10mil) Between Text "12M_X1" (36.667mil,440mil) on Top Overlay And Track (50mil,550mil)(150mil,550mil) on Top Overlay Silk Text to Silk Clearance [7.421mil]
+   Violation between Silk To Silk Clearance Constraint: (7.422mil < 10mil) Between Text "12M_X1" (36.667mil,440mil) on Top Overlay And Track (50mil,550mil)(50mil,650mil) on Top Overlay Silk Text to Silk Clearance [7.421mil]
+   Violation between Silk To Silk Clearance Constraint: (5.832mil < 10mil) Between Text "16M_X1" (463.332mil,550mil) on Top Overlay And Track (350mil,550mil)(450mil,550mil) on Top Overlay Silk Text to Silk Clearance [5.832mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "16M_X1" (463.332mil,550mil) on Top Overlay And Track (450mil,50mil)(450mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (5.832mil < 10mil) Between Text "16M_X1" (463.332mil,550mil) on Top Overlay And Track (450mil,550mil)(450mil,650mil) on Top Overlay Silk Text to Silk Clearance [5.832mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "16M_X2" (463.332mil,250mil) on Top Overlay And Track (450mil,50mil)(450mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (3mil < 10mil) Between Text "Crystal" (161mil,30.997mil) on Top Overlay And Track (150mil,50mil)(150mil,550mil) on Top Overlay Silk Text to Silk Clearance [3mil]
+   Violation between Silk To Silk Clearance Constraint: (8.128mil < 10mil) Between Text "Crystal" (161mil,30.997mil) on Top Overlay And Track (231mil,65.118mil)(269mil,65.118mil) on Top Overlay Silk Text to Silk Clearance [8.128mil]
+   Violation between Silk To Silk Clearance Constraint: (1.058mil < 10mil) Between Text "Crystal" (161mil,30.997mil) on Top Overlay And Track (350mil,50mil)(350mil,550mil) on Top Overlay Silk Text to Silk Clearance [1.058mil]
+   Violation between Silk To Silk Clearance Constraint: (1.058mil < 10mil) Between Text "Crystal" (161mil,30.997mil) on Top Overlay And Track (350mil,50mil)(450mil,50mil) on Top Overlay Silk Text to Silk Clearance [1.058mil]
+   Violation between Silk To Silk Clearance Constraint: (3mil < 10mil) Between Text "Crystal" (161mil,30.997mil) on Top Overlay And Track (50mil,50mil)(150mil,50mil) on Top Overlay Silk Text to Silk Clearance [3mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "GND" (40mil,280mil) on Top Overlay And Track (50mil,50mil)(50mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "GND" (40mil,375mil) on Top Overlay And Track (50mil,50mil)(50mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "GND" (40mil,570mil) on Top Overlay And Track (50mil,550mil)(50mil,650mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "GND" (40mil,75mil) on Top Overlay And Track (50mil,50mil)(50mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "GND" (460mil,125mil) on Top Overlay And Track (450mil,50mil)(450mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "GND" (460mil,330mil) on Top Overlay And Track (450mil,50mil)(450mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "GND" (460mil,420mil) on Top Overlay And Track (450mil,50mil)(450mil,550mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+   Violation between Silk To Silk Clearance Constraint: (2.5mil < 10mil) Between Text "GND" (460mil,625mil) on Top Overlay And Track (450mil,550mil)(450mil,650mil) on Top Overlay Silk Text to Silk Clearance [2.5mil]
+Rule Violations :22
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 30
+Waived Violations : 0
+Time Elapsed        : 00:00:01

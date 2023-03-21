@@ -1,0 +1,64 @@
+Added Component: Designator=J1(6_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810312320_BOOMELE-Boom-Precision-Elec-C37208_C37208.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MALE"; VariantName = "[No Variations]"
+Added Component: Designator=J2(6_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1810312320_BOOMELE-Boom-Precision-Elec-C37208_C37208.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C37208"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MALE"; VariantName = "[No Variations]"
+Added Component: Designator=R1(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT1M00/RMCF1206JT1M00CT-ND/1942830/?itemSeq=304982358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "Number RMCF1206JT1M00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT1M00/RMCF1206JT1M00CT-ND/1942830/?itemSeq=304982358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Part"; Value = "Number RMCF1206JT1M00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Crystal resonator)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Yangxing-Tech-X322512MSB4SI_C9002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C9002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "X322512MSB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(Crystal resonator)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "X322516MLB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12M_X1 Pin=J1-2
+Added Pin To Net: NetName=12M_X1 Pin=R1-1
+Added Pin To Net: NetName=12M_X1 Pin=Y1-1
+Added Net: Name=12M_X1
+Added Pin To Net: NetName=12M_X2 Pin=J1-5
+Added Pin To Net: NetName=12M_X2 Pin=R1-2
+Added Pin To Net: NetName=12M_X2 Pin=Y1-3
+Added Net: Name=12M_X2
+Added Pin To Net: NetName=16M_X1 Pin=J2-2
+Added Pin To Net: NetName=16M_X1 Pin=R2-1
+Added Pin To Net: NetName=16M_X1 Pin=Y2-1
+Added Net: Name=16M_X1
+Added Pin To Net: NetName=16M_X2 Pin=J2-5
+Added Pin To Net: NetName=16M_X2 Pin=R2-2
+Added Pin To Net: NetName=16M_X2 Pin=Y2-3
+Added Net: Name=16M_X2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-4
+Added Net: Name=GND
+Added Class: Name=Schematics
+Added Room: Name=Schematics

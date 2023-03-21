@@ -1,0 +1,17 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\PCB Designs\Crystal_Breakout_Brd\Project Outputs for Crystal_Breakout_Brd\Pick Place for Crystal_Breakout_Layout.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/11/22
+Time:       17:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"Y1","X322512MSB4SI","TopLayer","Crystal_resonator","248.035","494.994","270","SMD Crystal Resonators 12MHz ±10ppm SMD-3225_4P RoHS"
+"Y2","X322516MLB4SI","TopLayer","Crystal_resonator","248.035","259.994","270","±10ppm 16000000Hz -40?~85? ?????? 60O 9pF SMD3225-4P Crystals ROHS"
+"J2","MALE","TopLayer","6_PIN_100MIL","400.000","350.000","270","Male header- 6 pin 1 row- through Hole"
+"J1","MALE","TopLayer","6_PIN_100MIL","100.000","350.000","270","Male header- 6 pin 1 row- through Hole"

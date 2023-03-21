@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=12M_X2 Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=16M_X2 Pin=J2-5
+Removed Pin From Net: NetName=12M_X1 Pin=R1-1
+Removed Pin From Net: NetName=12M_X2 Pin=R1-2
+Removed Pin From Net: NetName=16M_X1 Pin=R2-1
+Removed Pin From Net: NetName=16M_X2 Pin=R2-2
+Removed Member From Class: ClassName=Schematics Member=R1
+Removed Member From Class: ClassName=Schematics Member=R2
+Added Pin To Net: NetName=12M_X2 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=16M_X2 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Room: Name=Schematics
